@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "5a4a6fee9b7dbb12f0102858",
+    "age": 26,
+    "name": {
+      "first": "Daphne",
+      "last": "Finch"
+    },
+    "eyeColor": "green",
+    "company": "OTHERWAY",
+    "email": "daphne.finch@otherway.me",
+    "phone": "+1 (873) 465-2159",
+    "address": "994 Ellery Street, Oceola, Idaho, 225"
+  },
+  {
+    "_id": "5a4a6fee251413b0db401a32",
+    "age": 23,
+    "name": {
+      "first": "Nancy",
+      "last": "York"
+    },
+    "eyeColor": "blue",
+    "company": "FUELWORKS",
+    "email": "nancy.york@fuelworks.org",
+    "phone": "+1 (853) 421-3294",
+    "address": "937 Veranda Place, Sultana, New Jersey, 217"
+  },
+  {
+    "_id": "5a4a6fee5ce9376cc8b79b39",
+    "age": 28,
+    "name": {
+      "first": "Alyssa",
+      "last": "Norman"
+    },
+    "eyeColor": "green",
+    "company": "LUXURIA",
+    "email": "alyssa.norman@luxuria.name",
+    "phone": "+1 (948) 597-2786",
+    "address": "210 Boynton Place, Devon, New Hampshire, 4170"
+  },
+  {
+    "_id": "5a4a6fee8469c740c7842892",
+    "age": 36,
+    "name": {
+      "first": "Maryann",
+      "last": "Bates"
+    },
+    "eyeColor": "green",
+    "company": "GEOFORMA",
+    "email": "maryann.bates@geoforma.co.uk",
+    "phone": "+1 (934) 452-2393",
+    "address": "703 Bergen Avenue, Virgie, Illinois, 5314"
+  },
+  {
+    "_id": "5a4a6fee5906f9754ab484b3",
+    "age": 21,
+    "name": {
+      "first": "Monique",
+      "last": "Decker"
+    },
+    "eyeColor": "brown",
+    "company": "CALCULA",
+    "email": "monique.decker@calcula.net",
+    "phone": "+1 (858) 488-2168",
+    "address": "765 Madison Street, Fairview, Wyoming, 8769"
+  }
+]
